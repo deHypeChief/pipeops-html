@@ -1,0 +1,40 @@
+# Node modules directory
+node_modules
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# dotenv environment variables file
+.env
+
+# Mac system files
+.DS_Store
+
+# IDE/editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Optional npm cache directory
+.npm
+
+# Optional yarn cache directory
+.yarn
+
+# Build output directory
+dist
+
+# Dockerfile and docker-compose files
+Dockerfile
+docker-compose.yml
+
+# Temporary files
+tmp/
+temp/
+
+# Coverage directory
+coverage/
